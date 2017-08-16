@@ -17,5 +17,9 @@ for   1 ≤ j ≤ t 0 ≤ c~i~≤ 1  for 1≤ i ≤n
 
 - Let c′i = 1 if ci > 1/2 and c′i = 0 otherwise. Output c′.
 
+How to Use:
+- Install the requirements: pip install -r requirements.txt
+- Run dinur.py: python dinur.py
+
 
 

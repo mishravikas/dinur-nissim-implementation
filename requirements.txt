@@ -1,0 +1,6 @@
+numpy==1.13.1
+pick==0.6.3
+PuLP==1.6.8
+PyMySQL==0.7.11
+pyparsing==2.2.0
+scipy==0.19.1
